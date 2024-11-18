@@ -1,0 +1,8 @@
+.blogs__wrapper {
+    background-color: #000a9b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    grid-area: 2 / 2 / 3 / 3;
+}

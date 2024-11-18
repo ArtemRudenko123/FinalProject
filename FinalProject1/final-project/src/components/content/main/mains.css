@@ -1,0 +1,41 @@
+.main__wrapper {
+    background-color: #005e17;
+    font-size: 40px;
+    grid-area: 2 / 2 / 3 / 3;
+}
+
+.main_img {
+    height: 200px;
+    width: 200px;
+    
+}
+
+.main_information {
+    display: flex;
+    color: rgb(255, 255, 255);
+    padding: 30px;
+}
+
+.container_img {
+    border-radius: 50%;
+    overflow: hidden;
+    height: 200px;
+    width: 200px;
+    margin: 0 20px 0 0 ;
+}
+
+.main_information_title {
+    color: white;
+
+}
+
+.main_information_text {
+    color: white;
+    font-size: 30px;
+    list-style: none;
+}
+
+.main_sub_information {
+    padding: 30px;
+
+}

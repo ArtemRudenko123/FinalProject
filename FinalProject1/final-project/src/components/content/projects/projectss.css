@@ -1,0 +1,7 @@
+.projects__wrapper {
+    background-color: #580E0E;
+    font-size: 40px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}

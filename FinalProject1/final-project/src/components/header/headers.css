@@ -1,0 +1,9 @@
+.header__wrapper {
+    background-color: #12009c;
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    grid-area: 1 / 1 / 2 / 3;
+    padding: 20px;
+    color: white;
+}

@@ -9,7 +9,7 @@ const Projects = () => {
         },
         {
             name:'Quiz',
-            link:'https://artemrudenko123.github.io/ToDoList/'
+            link:'https://artemrudenko123.github.io/Quiz1/'
         },
         {
             name:'Calculator',

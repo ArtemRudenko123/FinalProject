@@ -1,8 +1,82 @@
-.blogs__wrapper {
-    background-color: #000a9b;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: 40px;
-    grid-area: 2 / 2 / 3 / 3;
+.blog-container{
+    background-color: #121212;
+    color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.blog-title{
+    text-align: center;
+    color: #00ffff;
+    margin-bottom: 20px;
+}
+
+.blog-form{
+   display: flex;
+   align-items: center;
+   margin-bottom: 20px;
+   background-color: #1e1e1e;
+   padding: 10px;
+   border-radius: 5px;
+}
+
+.file-input-label{
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.attachment-icon{
+    font-size: 24px;
+    color: #00ffff;
+}
+
+.file-input{
+    display: none;
+}
+
+.text-input{
+    flex: 1;
+    height: 40px;
+    margin-right: 10px;
+    background-color: #121212;
+    color: white;
+    border: 1px solid #00ffff;
+    border-radius: 5px;
+    padding: 0 10px 0 10px;
+}
+
+.submit-button{
+    padding: 10px 20px 10px 20px;
+    background-color: #00ffff;
+    color: #121212;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    
+}
+
+.posts-container{
+    margin-top: 20px;
+}
+
+.post{
+    border: 1px solid #00ffff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #1e1e1e;
+}
+
+.post p{
+    margin: 0 0 10px;
+}
+
+.post-image{
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.clock{
+    text-align: center;
 }
